@@ -1,0 +1,10 @@
+{
+  "name" : "mac",
+  "description" : "HTTP MAC Authentication Scheme (client and server)",
+  "version" : "0.0.1",
+  "author" : "Eran Hammer-Lahav <eran@hueniverse.com>",
+  "repository" : "git://github.com/hueniverse/node-mac",
+  "main" : "index",
+  "keywords": ["http", "mac", "authentication", "oauth"],
+  "engines" : {"node" : ">=0.4.0"}
+}
